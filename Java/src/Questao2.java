@@ -24,7 +24,7 @@ public class Questao2 {
     public static void main(String[] args) {
 
         Questao2 pwdVal = new Questao2();
-        String password = "Ya3129038";
+        String password = "Ya3";
 
         System.out.println("""
                 Crie uma senha conforme as condições abaixo:
